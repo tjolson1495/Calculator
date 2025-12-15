@@ -5,7 +5,7 @@ The following symbols may be used:
 - '-' subtraction
 - '*' multiplication
 - '/' division
-- '^' exponentiate
+- '^' exponentiation
 - '(' ')' parentheses
 - '[' ']' brackets
 
