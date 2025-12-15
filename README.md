@@ -1,4 +1,4 @@
-Enter an aritmetic expression to receive its respective solution.
+Enter an arithmetic expression to receive its respective solution.
 
 The following symbols may be used:
 - '+' addition
