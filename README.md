@@ -1,4 +1,5 @@
 Enter an aritmetic expression to receive its respective solution.
+
 The following symbols may be used:
 - '+' addition
 - '-' subtraction
@@ -7,4 +8,5 @@ The following symbols may be used:
 - '^' exponentiate
 - '(' ')' parentheses
 - '[' ']' brackets
+
 Type "quit to exit the program.
