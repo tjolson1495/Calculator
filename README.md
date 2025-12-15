@@ -9,4 +9,8 @@ The following symbols may be used:
 - '(' ')' parentheses
 - '[' ']' brackets
 
-Type "quit to exit the program.
+Type "quit" to exit the program.
+
+Complie with "javac **/*.java"
+Run with "java Calculator" to begin user prompting
+- or "java Calculator <filename>" to load a list of expressions at the start
